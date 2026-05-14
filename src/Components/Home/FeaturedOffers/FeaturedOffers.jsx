@@ -22,7 +22,7 @@ const FeaturedOffers = () => {
         <section className="max-w-[1350px] mx-auto my-[60px] px-[25px]">
 
             {/* TITLE */}
-            <h2 className="mb-[30px] text-center text-[24px] font-bold leading-[30px] text-[rgba(5,13,41,0.65)] font-sans after:mx-auto after:mt-[8px] after:block after:h-[3px] after:w-[40px] after:bg-[#c9252c] after:content-['']">
+            <h2 className="mb-[30px]  text-center text-[24px]  font-bold leading-[30px] text-[rgba(5,13,41,0.65)] font-[ serif ] after:mx-auto after:mt-[8px] after:block after:h-[3px] after:w-[40px] after:bg-[#c9252c] after:content-['']">
                 Featured Offers
             </h2>
 

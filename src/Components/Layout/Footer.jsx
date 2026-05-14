@@ -221,11 +221,7 @@ const Footer = () => {
 
                 <div>@ Copyright 2025 MPR Travel</div>
 
-                <img
-                    src="https://static.tacdn.com/img2/brand_refresh/Tripadvisor_lockup_horizontal_secondary_registered.svg"
-                    alt="Tripadvisor"
-                    className="h-[20px]"
-                />
+
             </div>
         </footer>
     );

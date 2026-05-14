@@ -31,10 +31,10 @@ const IncludedVacationSection = () => {
         <section className="px-[15px] py-[30px] lg:px-[30px] lg:py-[50px]">
 
             {/* TITLE */}
-            <h2 className="mb-[40px] text-center text-[24px] font-bold leading-[30px] text-[rgba(5,13,41,0.65)] font-sans">
+            <h2 className="mb-[40px] text-center text-[24px] font-[serif] font-bold leading-[30px] text-[rgba(5,13,41,0.65)] ">
                 Included with Your{" "}
                 <span className=" pb-[4px]">
-                    Apple Vacation
+                    Mpr Travels Vacations
                 </span>
             </h2>
 

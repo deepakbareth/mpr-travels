@@ -1,9 +1,7 @@
 import React, { useEffect } from 'react';
-// Import your banner image here
-import bannerBg from '../../../assets/Home/BannerImg/banner.png';
+import bannerBg from '../../../assets/Home/BannerImg/bnrBg2.jpg';
 
 const PromoBanner = () => {
-    // Dynamically load the Viator widget script when the component mounts
     useEffect(() => {
         const script = document.createElement('script');
         script.src = "https://www.viator.com/orion/partner/widget.js";

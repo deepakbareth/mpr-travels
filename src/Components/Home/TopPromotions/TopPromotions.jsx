@@ -10,7 +10,7 @@ const TopPromotions = () => {
     return (
         <section className="max-w-[1400px] mx-auto mb-[60px] px-[16px] sm:px-[40px] mt-[-20px] sm:mt-[30px]">
 
-            <h2 className="text-center text-[24px] font-bold text-[rgba(5,13,41,0.65)] relative leading-[30px] font-sans mb-[50px] after:content-[''] after:w-[60px] after:h-[3px] after:bg-[#c62828] after:absolute after:left-1/2 after:-translate-x-1/2 after:-bottom-[12px]">
+            <h2 className="text-center text-[24px] font-bold text-[rgba(5,13,41,0.65)] relative leading-[30px] font-[serif] mb-[50px] after:content-[''] after:w-[60px] after:h-[3px] after:bg-[#c62828] after:absolute after:left-1/2 after:-translate-x-1/2 after:-bottom-[12px]">
                 This Week's Top Promotions
             </h2>
 

@@ -1,4 +1,5 @@
 // import PromoBanner from "../Home/Banner/PromoBanner2"
+import ViatorWidgetSection from "../Destinations/ViatorWidgetSection"
 import PromoBanner from "../Home/Banner/PromoBanner"
 import BenefitsSection from "../Home/BenefitsSection/BenefitsSection"
 import DisclaimerSection from "../Home/DisclaimerSection/DisclaimerSection"
@@ -10,26 +11,27 @@ import ResortsSection from "../Home/ResortsSection/ResortsSection"
 import TopPromotions from "../Home/TopPromotions/TopPromotions"
 import TopVacationDestinations from "../Home/TopVacationDestinations/TopVacationDestinations"
 import Footer from "../Layout/Footer"
-// import Navbar from "../Layout/Navbar2"
-import Navbar from "../Layout/Navbar"
+
+// import Navbar from "../Layout/Navbar"
 
 
 function Home() {
     return (
         <>
-            <Navbar />
-            {/* <Navbar /> */}
+            {/* <Navbar />  this */}
+
             <PromoBanner />
             <TopPromotions />
             <FeaturedDeals />
-            <ResortsSection />
+
+            {/* <ResortsSection />   mexico remove */}
             <BenefitsSection />
             <TopVacationDestinations />
             <ParadiseSection />
             <FeaturedOffers />
             <IncludedVacationSection />
             <DisclaimerSection />
-            <Footer />
+            {/* <Footer /> */}
 
 
         </>

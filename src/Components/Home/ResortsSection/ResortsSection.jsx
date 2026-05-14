@@ -32,7 +32,7 @@ const ResortsSection = () => {
             </a>
 
             {/* HEADING */}
-            <h2 className="mb-[35px] text-center text-[24px] font-bold leading-[30px] text-[rgba(5,13,41,0.65)] font-sans">
+            <h2 className="mb-[35px] text-center text-[24px] font-bold leading-[30px] text-[rgba(5,13,41,0.65)] font-[serif]">
                 Top Resorts in{" "}
                 <span className="pb-[3px]">
                     Mexico
